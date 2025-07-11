@@ -17,3 +17,19 @@ Features
 Development
 
 This project is currently in early development. Built with Unreal Engine 5.
+
+CI & Team Workflow
+
+    Code is automatically built and checked on each push to main and feature branches.
+
+    Always work on a separate branch and create a pull request when ready.
+
+    CI runs basic validation to ensure builds are stable before merging.
+
+    Follow our internal coding guidelines and Unreal project structure.
+
+Notes
+
+    This repository is for internal development only.
+
+    For any updates, ideas, or issues, please sync with the gameplay team.
